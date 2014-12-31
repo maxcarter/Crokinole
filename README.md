@@ -2,7 +2,7 @@
   <content>
 # Crokinole: The Forgotten Game
  
-Crokinole: The Forgotten Game is a Flash remake of the classic board game Crokinole. This game was created during Grade 12 Computer Science ICS4U at Superior Heights C&VS in Sault Ste. Marie, Ontario. The game was created using Action Script 3.0 and Adobe Flash Professional. 
+Crokinole: The Forgotten Game is a Flash remake of the classic tabletop game Crokinole. This game was created during Grade 12 Computer Science ICS4U at Superior Heights C&VS in Sault Ste. Marie, Ontario. The game was created using Action Script 3.0 and Adobe Flash Professional. 
 
 ![Crokinole](https://raw.githubusercontent.com/maxcarter/crokinole/master/crokinole.jpg)
 
